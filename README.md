@@ -37,11 +37,4 @@ trs Espresso requires ruby and bundler to be installed. Before you begin; instal
 Once the dependencies have been installed you'll have a few commands available:
 
 - `bundle exec rake`  : Will attempt to run your application and print output to the terminal.
-- `bundle exec rspec` : Runs the test suite, we've added a few integration tests to get you started, but you'll probably want to add more as you work.
-
-Include the `.git` directory in the packaged .tar.gz file you send to us.
-
-## Do not publish our task
-
-It should go without saying that we don't want other candidates to see our
-task or previous submissions.
+- `bundle exec rspec` : Runs the test suite.
